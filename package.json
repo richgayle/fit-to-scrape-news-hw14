@@ -1,0 +1,26 @@
+{
+  "name": "fit-to-scrape-news-hw14",
+  "version": "1.0.0",
+  "description": "All the News That's Fit to Scrape\r Overview\r In this assignment, you'll create a web app that lets users view and leave comments on the latest news. But you're not going to actually write any articles; instead, you'll flex your Mongoose and Cheerio muscles to scrape news from another site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/richgayle/fit-to-scrape-news-hw14.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/richgayle/fit-to-scrape-news-hw14/issues"
+  },
+  "homepage": "https://github.com/richgayle/fit-to-scrape-news-hw14#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "express-handlebars": "^3.1.0",
+    "mongoose": "^5.8.4"
+  }
+}
